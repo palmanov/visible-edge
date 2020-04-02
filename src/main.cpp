@@ -1,5 +1,5 @@
 #include <iostream>
-#include "algCG.h"
+#include "../include/algCG.h"
 
 using namespace algCG;
 
