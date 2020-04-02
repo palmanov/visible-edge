@@ -8,7 +8,7 @@ int main()
 	//
 	// set the coordinate values for each vertex of the shape
 	//
-	vertex* V = new vertex[8];
+	vertex V[8];
 	V[0].X = 2.0; V[0].Y = 0.0; V[0].Z = 2.0; // A1
 	V[1].X = 0.0; V[1].Y = 0.0; V[1].Z = 2.0; // B1
 	V[2].X = 0.0; V[2].Y = 2.0; V[2].Z = 2.0; // C1

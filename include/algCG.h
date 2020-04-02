@@ -22,7 +22,7 @@ namespace algCG {
         double Z = 0;
     };
 
-    bool Roberts_alg(vertex V1, vertex V2, vertex V3, view_point P, barycenter W) {
+    bool Roberts_alg(vertex &V1, vertex &V2, vertex &V3, view_point &P, barycenter &W) {
         vector_u Vec1, Vec2;
         //
         // for this face we find the coordinates of two vectors
