@@ -1,2 +1,3 @@
-# Visible Edge [![Build Status](https://travis-ci.com/palmanov/VisibleEdge.svg?branch=master)](https://travis-ci.com/palmanov/VisibleEdge)
+[![CMake](https://github.com/uknowenough/visible-edge/actions/workflows/cmake.yml/badge.svg)](https://github.com/uknowenough/visible-edge/actions/workflows/cmake.yml)
+# Visible Edge
 Roberts algorithm / Invisible surfaces and lines removal algorithms
